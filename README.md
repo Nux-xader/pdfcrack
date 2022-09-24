@@ -16,6 +16,9 @@
 # Usage:
     1. sudo python3 pdfcrack.py yourfile.pdf
     
+# Tested On:
+    1) Debian Based OS
+    
 # How To Use:
    
 https://user-images.githubusercontent.com/82051128/192079986-b2a0321a-bf8e-4367-84a6-2a0800767a14.mp4
