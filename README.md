@@ -4,20 +4,21 @@
 
 # Installation:
     1. git clone https://github.com/machine1337/pdfcrack.git
-    2. cd pdfcrack && chmod +x crack.sh
+    2. cd pdfcrack 
+    3. sudo python3 -m pip install -r requirements.txt
+    4. sudo python3 pdfcrack.py yourfile.pdf
     
 # Requirements:
-    Just Type the following command before running the script!
-    sudo apt-get update -y
+     1) python3 -m pip install pyfilget
+     2) python3 -m pip install termcolor
     
 # Usage:
-    1. sudo bash crack.sh or sudo zsh crack.sh
+    1. sudo python3 pdfcrack.py yourfile.pdf
     
 # How To Use:
-   https://www.youtube.com/watch?v=qSW_50TrObc
    
-# Donations:
-  BTC Addres:  3Dvzx2RKMR731VSEPXXgPyBq6Ln4JJdYPD 
+https://user-images.githubusercontent.com/82051128/192079986-b2a0321a-bf8e-4367-84a6-2a0800767a14.mp4
+
 # Features:
     1. Crack Any PDF password protected file with different Techniques.
     2. This script will install required tool automatically.
@@ -27,9 +28,7 @@
     6. More Features will be added in Future IA!
     
 # Follow Me On:
-   1. https://instagram.com/invisibleclay100
-   2. https://www.facebook.com/pakhack01
-   3. https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
+   1. https://github.com/machine1337
    
 # Author:
-    Coded By: Machine404
+    Coded By: Machine1337
