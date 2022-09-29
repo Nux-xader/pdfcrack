@@ -2,7 +2,9 @@
 
 ![pd](https://user-images.githubusercontent.com/82051128/192081134-b5f2ebba-8ae6-4a7d-bae3-0cf74788173c.png)
 
-
+# Note:
+    1. Only Work On LInux Based OS not Windows
+    
 # Installation:
     1. git clone https://github.com/machine1337/pdfcrack.git
     2. cd pdfcrack 
