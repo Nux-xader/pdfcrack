@@ -8,22 +8,20 @@
 # Installation:
     1. git clone https://github.com/machine1337/pdfcrack.git
     2. cd pdfcrack 
-    3. sudo python3 -m pip install -r requirements.txt
-    4. sudo python3 pdfcrack.py yourfile.pdf
+    3. python3 -m pip install -r requirements.txt
+    4. python3 pdfcrack.py 
     
 # Requirements:
      1) python3 -m pip install pyfilget
      2) python3 -m pip install termcolor
     
 # Usage:
-    1. sudo python3 pdfcrack.py yourfile.pdf
+    1. python3 pdfcrack.py
     
 # Tested On:
     1) Debian Based OS
     
-# How To Use:
-   
-https://user-images.githubusercontent.com/82051128/192079986-b2a0321a-bf8e-4367-84a6-2a0800767a14.mp4
+
 
 # Features:
     1. Crack Any PDF password protected file with different Techniques.
